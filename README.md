@@ -19,6 +19,8 @@ Annex (Assistant)
 A. What is Git Annex (Assistant)?
     - A companion to git for big files
     - We'll cover this in depth if there's time.
+##I made a change
+
 
 ## Getting the tools
 
